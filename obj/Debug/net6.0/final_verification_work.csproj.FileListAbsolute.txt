@@ -1,0 +1,15 @@
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.csproj.AssemblyReference.cache
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.GeneratedMSBuildEditorConfig.editorconfig
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.AssemblyInfoInputs.cache
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.AssemblyInfo.cs
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.csproj.CoreCompileInputs.cache
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/bin/Debug/net6.0/final_verification_work
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/bin/Debug/net6.0/final_verification_work.deps.json
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/bin/Debug/net6.0/final_verification_work.runtimeconfig.json
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/bin/Debug/net6.0/final_verification_work.dll
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/bin/Debug/net6.0/ref/final_verification_work.dll
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/bin/Debug/net6.0/final_verification_work.pdb
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.dll
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/ref/final_verification_work.dll
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.pdb
+/home/sideshow/GeekBrains/Final verification work/final_verification_work/obj/Debug/net6.0/final_verification_work.genruntimeconfig.cache
